@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm a tech enthusiast and a student passionate about system development. <br>My primary focus is on backend development, but I'm actively working to master frontend<br> technologies as well. I've had the chance to work on several projects that have given me <br>valuable hands-on experience in system development, and I'm always eager to learn more. I'm looking forward to future opportunities in the tech industry, where I can contribute and continue growing as a developer.<br><br>Feel free to check out my projects and connect with me!<br><br>
+👋 Hi there! I'm a tech enthusiast and a student passionate about system development. <br>My primary focus is on backend development, but I'm actively working to master frontend<br> technologies as well. I've had the chance to work on several projects that have given me <br>valuable hands-on experience in system development, and I'm always eager to learn more.<br> I'm looking forward to future opportunities in the tech industry, where I can contribute and continue growing as a developer.<br><br>Feel free to check out my projects and connect with me!<br><br>
 
 
 ## 🌐 Socials:
